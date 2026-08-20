@@ -1,0 +1,14 @@
+{
+  "name": "housing-total-simulator",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.mjs",
+    "vercel-build": "node build.mjs"
+  },
+  "dependencies": {
+    "esbuild": "^0.21.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
